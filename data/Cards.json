@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "img": "01SI047-full.png",
+    "region": "Shadow Isles",
+    "cost": 0,
+    "description": "Pick a follower. Create an Ephemeral copy of it in hand.",
+    "keyword": "Burst"
+  },
+  {
+    "id": 2,
+    "img": "06BC015-full.png",
+    "region": "Bandle City",
+    "cost": 2,
+    "description": "Nexus Strike: Plant a Mysterious Portal in the top 4 cards of your deck.",
+    "keyword": "Elusive, Nexus Strike"
+  },
+  {
+    "id": 3,
+    "img": "05BC198-full.png",
+    "region": "Bandle City",
+    "cost": 1,
+    "description": "Deal 1 to a unit. If you have 4+ allies, deal 2 instead.",
+    "keyword": "Fast"
+  },
+  {
+    "id": 4,
+    "img": "06MT042-full.png",
+    "region": "Targon",
+    "cost": 2,
+    "description": "Daybreak: Give Daybreak allies +1|+1 this round. Nightfall: Grant Nightfall allies +1|+0.",
+    "keyword": "Daybreak, Nightfall"
+  },
+  {
+    "id": 5,
+    "img": "03MT072-full.png",
+    "region": "Targon",
+    "cost": 5,
+    "description": "None",
+    "keyword": "Fury, SpellShield"
+  },
+  {
+    "id": 6,
+    "img": "06MT031-full.png",
+    "region": "Targon",
+    "cost": 5,
+    "description": "Round End: Grant allies in play and in hand +1|+1. Empowered 5: Elusive, Lifesteal, and Overwhelm.",
+    "keyword": "Elusive, Lifesteal, Overwhelm, Round End"
+  },
+  {
+    "id": 7,
+    "img": "06BW011-full.png",
+    "region": "Bilgewater",
+    "cost": 8,
+    "description": "When I'm summoned or Round Start: Spawn 2. Then, if your strongest Tentacle has 12+ Power, create a Nagakabouros' Tantrum in hand.",
+    "keyword": "Fearsome, Round Star"
+  },
+  {
+    "id": 8,
+    "img": "05IO021-full.png",
+    "region": "Ionia",
+    "cost": 3,
+    "description": "Play: Recall an ally to summon an Ephemeral copy of it. Countdown 3: Summon another Ephemeral copy of it.",
+    "keyword": "Play, Countdown"
+  },
+  {
+    "id": 9,
+    "img": "01FR020-full.png",
+    "region": "Freljord",
+    "cost": 4,
+    "description": "Deal 2 to ALL units.",
+    "keyword": "Slow"
+  },
+  {
+    "id": 10,
+    "img": "01FR037-full.png",
+    "region": "Freljord",
+    "cost": 4,
+    "description": "Allegiance: Grant the top ally in your deck +3|+3 and Overwhelm.",
+    "keyword": "Overwhelm, Allegiance"
+  },
+  {
+    "id": 11,
+    "img": "01FR034-full.png",
+    "region": "Freljord",
+    "cost": 7,
+    "description": "When I'm summoned, grant me +1|+1 for each ally that has died.",
+    "keyword": "Overwhelm"
+  },
+  {
+    "id": 12,
+    "img": "04NX007-full.png",
+    "region": "Noxus",
+    "cost": 10,
+    "description": "Attack: Grant me Power equal to the total Power of all allies.",
+    "keyword": "Overwhelm, Attack"
+  },
+  {
+    "id": 13,
+    "img": "05PZ030-full.png",
+    "region": "Piltover & Zaun",
+    "cost": 6,
+    "description": "When you draw or create me in hand or each Round Start: while I'm in hand, transform me into a random 6+ cost spell.",
+    "keyword": "Focus, Round Start"
+  },
+  {
+    "id": 14,
+    "img": "04SH080-full.png",
+    "region": "Shurima",
+    "cost": 2,
+    "description": "To play, put a card from hand on top of your deck. Create 2 random Lurkers in hand.",
+    "keyword": "Lurk, Burst"
+  },
+  {
+    "id": 15,
+    "img": "03DE012-full.png",
+    "region": "Demacia",
+    "cost": 8,
+    "description": "When you summon an Elite, reduce my cost by 1. For each ally that died this round, summon a Dauntless Vanguard.",
+    "keyword": "Slow"
+  },
+  {
+    "id": 16,
+    "img": "05SH015-full.png",
+    "region": "Shurima",
+    "cost": 5,
+    "description": "When I'm summoned, draw 1. If you drew a landmark, repeat this effect.",
+    "keyword": "Fearsome"
+  },
+  {
+    "id": 17,
+    "img": "05BC194-full.png",
+    "region": "Bandle City",
+    "cost": 4,
+    "description": "Round Start: Create a follower from a new region in hand. Then, if I've seen allies from 10 regions, win the game.",
+    "keyword": "Round Start"
+  },
+  {
+    "id": 18,
+    "img": "04IO013-full.png",
+    "region": "Ionia",
+    "cost": 7,
+    "description": "Play: Give an ally Barrier this round and draw a Shen. Allies with Barrier have Double Attack.",
+    "keyword": "Double Attack, Barrier, Play"
+  },
+  {
+    "id": 19,
+    "img": "04PZ013-full.png",
+    "region": "Piltover & Zaun",
+    "cost": 3,
+    "description": "When I'm summoned, create a random Elnuk in the top 6 cards of your deck.",
+    "keyword": "None"
+  },
+  {
+    "id": 20,
+    "img": "06SH035-full.png",
+    "region": "Shurima",
+    "cost": 2,
+    "description": "When you slay a unit, reduce the cost of the next Darkin Unit you play by 1.",
+    "keyword": "None"
+  },
+  {
+    "id": 21,
+    "img": "03FR018-full.png",
+    "region": "Freljord",
+    "cost": 3,
+    "description": "For the top 4 cards in your deck, draw each Yeti, Poro, and Elnuk. Then place the rest into your deck.",
+    "keyword": "Burst"
+  },
+  {
+    "id": 22,
+    "img": "07RU015-full.png",
+    "region": "Runeterran",
+    "cost": 5,
+    "description": "None",
+    "keyword": "None"
+  },
+  {
+    "id": 23,
+    "img": "06PZ030-full.png",
+    "region": "Piltover & Zaun",
+    "cost": 2,
+    "description": "Attack: Create a new 2 cost spell in hand and grant it Fleeting.",
+    "keyword": "Attack, Equipment"
+  },
+  {
+    "id": 24,
+    "img": "06IO010-full.png",
+    "region": "Ionia",
+    "cost": 5,
+    "description": "When I'm summoned, draw a Yasuo and Stun the strongest enemy. When you gain the attack token, Stun the strongest enemy.",
+    "keyword": "Stun"
+  },
+  {
+    "id": 25,
+    "img": "07SI007-full.png",
+    "region": "Shadow Isles",
+    "cost": 4,
+    "description": "Each round, the first time another ally dies, draw 1.",
+    "keyword": "None"
+  },
+  {
+    "id": 26,
+    "img": "01NX033-full.png",
+    "region": "Noxus",
+    "cost": 4,
+    "description": "When I'm summoned, draw 1 for each 5+ Power ally you have.",
+    "keyword": "None"
+  },
+  {
+    "id": 27,
+    "img": "06IO032-full.png",
+    "region": "Ionia",
+    "cost": 5,
+    "description": "Flow: I cost 2 less. Recall a unit or landmark. If it has any attachments, destroy them first.",
+    "keyword": "Flow"
+  },
+  {
+    "id": 28,
+    "img": "04BW006-full.png",
+    "region": "Bilgewater",
+    "cost": 0,
+    "description": "Grant an enemy Vulnerable. If it's already Vulnerable, the strongest ally starts a free attack challenging it.",
+    "keyword": "Challenger, Vulnerable"
+  },
+  {
+    "id": 29,
+    "img": "07BW042-full.png",
+    "region": "Bilgewater",
+    "cost": 2,
+    "description": "Play: Manifest a follower that has a different subtype than allies in play.",
+    "keyword": "Play, Manifest"
+  },
+  {
+    "id": 30,
+    "img": "01DE024-full.png",
+    "region": "Demacia",
+    "cost": 1,
+    "description": "Last Breath: Create in hand a random 6+ cost spell from a region other than Demacia.",
+    "keyword": "Last Breath"
+  },
+  {
+    "id": 31,
+    "img": "06DE026-full.png",
+    "region": "Demacia",
+    "cost": 2,
+    "description": "Create an Icathian Mirage in hand that costs 0 this round, or create a Golden Spatula in hand.",
+    "keyword": "Burst"
+  },
+  {
+    "id": 32,
+    "img": "03NX002-full.png",
+    "region": "Noxus",
+    "cost": 6,
+    "description": "Round End: If you played a spell on me this round, I strike the weakest enemy.",
+    "keyword": "Strike, Round End"
+  },
+  {
+    "id": 33,
+    "img": "06SI016-full.png",
+    "region": "Shadow Isles",
+    "cost": 1,
+    "description": "None",
+    "keyword": "Hallowed"
+  },
+  {
+    "id": 34,
+    "img": "04SI002-full.png",
+    "region": "Shadow Isles",
+    "cost": 5,
+    "description": "Kill a unit, then revive it.",
+    "keyword": "Fast"
+  },
+  {
+    "id": 35,
+    "img": "06SI014-full.png",
+    "region": "Shadow Isles",
+    "cost": 3,
+    "description": "When I am summoned, summon a Ghastly Band. Round Start: If you have the attack token, summon a Ghastly Band.",
+    "keyword": "Round Start"
+  },
+  {
+    "id": 36,
+    "img": "04DE020-full.png",
+    "region": "Demacia",
+    "cost": 3,
+    "description": "When an ally with Fury kills a unit, grant it an additional +1|+1.",
+    "keyword": "None"
+  },
+  {
+    "id": 37,
+    "img": "06BC035-full.png",
+    "region": "Bandle City",
+    "cost": 2,
+    "description": "When an ally with an attachment attacks, grant that attachment +1|+0.",
+    "keywords": "None"
+  },
+  {
+    "id": 38,
+    "img": "05BC001-full.png",
+    "region": "Bandle City",
+    "cost": 6,
+    "description": "Transform a unit into a 3|3 Mini-Minitee and Silence it.",
+    "keywords": "Burst"
+  },
+  {
+    "id": 39,
+    "img": "05BC019-full.png",
+    "region": "Bandle City",
+    "cost": 2,
+    "description": "None",
+    "keywords": "Elusive, Attach"
+  },
+  {
+    "id": 40,
+    "img": "03MT216-full.png",
+    "region": "Targon",
+    "cost": 2,
+    "description": "When I'm summoned, refill 2 spell mana if you Behold a Nightfall card.",
+    "keywords": "Behold, Nightfall"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "Blitzcrank",
+    "Champion": "Blitzcrank",
+    "Region": "Zaun",
+    "Passive": "They gain a shield based on their mana when dropping to low health.",
+    "Q": "They fire their right hand to grab an opponent on its path, dealing damage and dragging it back to them.",
+    "W": "They supercharge themselves to get dramatically increased Move and Attack Speed. They are temporarily slowed after the effect ends.",
+    "E": "They charge up their fist to make the next attack deal double damage and pop their target up in the air.",
+    "Ult": "Enemies attacked by them are marked and take lightning damage after 1 second. Additionally, they can activate this ability to remove nearby enemies' shields, damage them, and silence them briefly.",
+    "Role": "Tank"
+  }
+]
