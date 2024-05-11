@@ -1,13 +1,164 @@
 [
   {
-    "id": "Blitzcrank",
+    "id": 1,
     "Champion": "Blitzcrank",
-    "Region": "Zaun",
-    "Passive": "They gain a shield based on their mana when dropping to low health.",
-    "Q": "They fire their right hand to grab an opponent on its path, dealing damage and dragging it back to them.",
-    "W": "They supercharge themselves to get dramatically increased Move and Attack Speed. They are temporarily slowed after the effect ends.",
-    "E": "They charge up their fist to make the next attack deal double damage and pop their target up in the air.",
-    "Ult": "Enemies attacked by them are marked and take lightning damage after 1 second. Additionally, they can activate this ability to remove nearby enemies' shields, damage them, and silence them briefly.",
-    "Role": "Tank"
+    "Passive": "Blitzcrank gains a shield based on their mana when dropping to low health.",
+    "Q": "Blitzcrank fires their right hand to grab an opponent on its path, dealing damage and dragging it back to them.",
+    "W": "Blitzcrank super charges themself to get dramatically increased Move and Attack Speed. They are temporarily slowed after the effect ends.",
+    "E": "Blitzcrank charges up their fist to make the next attack deal double damage and pop their target up in the air. Enemies attacked by Blitzcrank are marked and take lightning damage after 1 second. Additionally, Blitzcrank can activate this ability to remove nearby enemies' shields, damage them, and silence them briefly.",
+    "Ult": "Enemies attacked by Blitzcrank are marked and take lightning damage after 1 second. Additionally, Blitzcrank can activate this ability to remove nearby enemies' shields, damage them, and silence them briefly."
+  },
+  {
+    "id": 2,
+    "Champion": "Janna",
+    "Passive": "Janna's allies gain Move Speed moving towards her. Janna deals a portion of bonus Move Speed as bonus magic damage on hit and with Zephyr.",
+    "Q": "By creating a localized change in pressure and temperature, Janna is able to create a small storm that grows in size with time. She can activate the spell again to release the storm. On release this storm will fly towards the direction it was cast in, dealing damage and knocking away any enemies in its path.",
+    "W": "Janna summons an air elemental that passively increases her Move Speed and enables her to pass through units. She may also activate this ability to deal damage and slow an enemy's Move Speed.",
+    "E": "Janna conjures a defensive gale that shields an ally champion or turret from incoming damage and increases their Attack Damage.",
+    "Ult": "Janna surrounds herself in a magical storm, throwing enemies back. After the storm has settled, soothing winds heal nearby allies while the ability is active."
+  },
+  {
+    "id": 3,
+    "Champion": "Bard",
+    "Passive": "Meeps: Bard attracts lesser spirits that assist with his basic attacks to deal extra magic damage. When Bard has collected enough Chimes, his meeps will also deal damage in an area and slow enemies hit. Chimes: Ancient chimes randomly appear for Bard to collect. These grant experience, restore mana, and provide out of combat Move Speed.",
+    "Q": "Reveals a Health shrine which powers up over a short time, disappearing after healing and speeding up the first ally that touches it.",
+    "W": "Bard fires a missile which will slow the first enemy struck, and continue onward. If it strikes a wall, it will stun the initial target; if it strikes another enemy, it will stun them both.",
+    "E": "Bard opens a portal in nearby terrain. Allies and enemies alike can take a one-way trip through that terrain by moving into the portal.",
+    "Ult": "Bard sends spirit energy arcing to a location, putting all champions, minions, monsters, and turrets hit into stasis for a brief time."
+  },
+  {
+    "id": 4,
+    "Champion": "Yuumi",
+    "Passive": "Periodically, when Yuumi strikes a champion with an attack or ability, she restores health to herself and the next ally she Attaches to. While Attached, Yuumi generates a special bond with her allies. The ally with the strongest bond enhances Yuumi's abilities while she is Attached to them.",
+    "Q": "Yuumi fires a missile, dealing damage and slowing first target hit. It deals bonus damage and an enchanced slow if it takes at least 1.35 seconds to get to its target. While on her Best Friend, the slow is always enhanced and grants bonus On-Hit damage to her ally. While Attached, the missile can be controlled with your cursor for a brief period.",
+    "W": "Yuumi dashes to a target ally, becoming untargetable from everything except turrets. While on her Best Friend, she gains Heal & Shield Power and grants her Ally On-Hit healing.",
+    "E": "Shields Yuumi and boosts Move Speed and Attack Speed. If she's attached, she passes it to her ally instead.",
+    "Ult": "Yuumi channels five waves that damage enemies and heal allies. Yuumi can move, attach, and cast Zoomies! while channeling. While on her Best Friend, this spell also follows her mouse."
+  },
+  {
+    "id": 5,
+    "Champion": "Xin Zhao",
+    "Passive": "Every third attack deals bonus damage and heals Xin Zhao.",
+    "Q": "Xin Zhao's next 3 standard attacks deal increased damage with the third attack knocking an opponent into the air.",
+    "W": "Xin Zhao slashes in front of himself with his spear, then thrusts it forward, slowing affected enemies and marking them as Challenged.",
+    "E": "Xin Zhao charges to an enemy, gaining increased Attack Speed and dealing damage to all enemies in the area, slowing them briefly. Audacious Charge gains increased range against Challenged targets.",
+    "Ult": "Xin Zhao challenges an enemy he damaged recently. Xin Zhao deals damage to nearby enemies based on their current Health and knocks non-challenged targets back, becoming impervious to damage dealt by champions outside of the circle created."
+  },
+  {
+    "id": 6,
+    "Champion": "Amumu",
+    "Passive": "Amumu's basic attacks Curse his enemies, causing them to take bonus true damage from incoming magic damage.",
+    "Q": "Amumu tosses a sticky bandage at a target, stunning and damaging the target while he pulls himself to them.",
+    "W": "Overcome by anguish, nearby enemies lose a percentage of their maximum Health each second and have their Curses refreshed.",
+    "E": "Permanently reduces the physical damage Amumu would take. Amumu can unleash his rage, dealing damage to surrounding enemies. Each time Amumu is hit, the cooldown on Tantrum is reduced.",
+    "Ult": "Amumu entangles surrounding enemy units in bandages, applying his Curse, damaging and stunning them."
+  },
+  {
+    "id": 7,
+    "Champion": "Alistar",
+    "Passive": "Alistar charges his roar by stunning or displacing enemy champions or when nearby enemies die. When fully charged he heals himself all nearby allied champions.",
+    "Q": "Alistar smashes the ground, dealing damage to nearby enemies and tossing them into the air.",
+    "W": "Alistar rams a target with his head, dealing damage and knocking the target back.",
+    "E": "Alistar tramples nearby enemy units, ignoring unit collision and gaining stacks if he damages an enemy champion. At full stacks Alistar's next basic attack against an enemy champion deals additional magic damage and stuns them.",
+    "Ult": "Alistar lets out a wild roar, removing all crowd control effects on himself, and reducing incoming physical and magical damage for the duration."
+  },
+  {
+    "id": 8,
+    "Champion": "Aurelion Sol",
+    "Passive": "Aurelion Sol's damaging Abilities break down enemies into stacks of Stardust, which permanently improves each of his abilities.",
+    "Q": "Aurelion Sol channels his dragon breath for a few seconds, damaging the first enemy hit and splashing reduced damage onto nearby enemies. Each second the breath is channeled directly at an enemy will deal bonus damage, which is improved by the amount of Stardust that's been collected. This ability collects Stardust if the target is a champion.",
+    "W": "Aurelion Sol flies over terrain in a targeted direction. While in this state, he can cast other abilities. Breath of Light no longer has a cooldown or maximum channel duration and deals increased damage while flying. Astral Flight's remaining cooldown is reduced whenever an enemy champion dies after being recently damaged by Aurelion Sol. Stardust increases Astral Flight's maximum range.",
+    "E": "Aurelion Sol summons a black hole, damaging enemies and slowly pulling them toward its center. This ability grants Stardust each time an enemy dies within the black hole and for each second an enemy champion is caught inside it. The center of the black hole executes enemies who are below a certain percentage of their maximum health. Stardust increases Singularity's area as well as the execution threshold.",
+    "Ult": "Falling Star: Aurelion Sol crashes a star into the earth. This impact deals magic damage and stuns enemies while also granting Stardust for each enemy champion it hits. Gathering enough Stardust transforms Aurelion Sol's next Falling Star into The Skies Descend. The Skies Descend: Aurelion Sol drags a giant star down from the heavens with an increased impact zone and increased damage, knocking up enemies rather than stunning them. A shockwave then spreads from the edge of the impact zone, which damages and slows the enemies it hits. Stardust increases the impact area of both Falling Star and The Skies Descend."
+  },
+  {
+    "id": 9,
+    "Champion": "Corki",
+    "Passive": "A percentage of Corki's basic attack damage is converted into magic damage. Corki can occasionally retrieve The Package inside his base, granting him Move Speed and an empowered cast of Valkyrie.",
+    "Q": "Corki fires a flash bomb at a target location, dealing magic damage to enemies in the area. This attack additionally reveals units in the area for a duration.",
+    "W": "Corki flies a short distance, dropping bombs that create a trail of fire that damages opponents who remain in it.",
+    "E": "Corki's gatling gun rapidly fires in a cone in front of him, dealing damage and reducing enemy Armor and Magic Resist.",
+    "Ult": "Corki fires a missile toward his target location that explodes on impact, dealing damage to enemies in an area. Corki stores missiles over time, up to a maximum. Every 3rd missile fired will be a Big One, dealing extra damage."
+  },
+  {
+    "id": 10,
+    "Champion": "Gnar",
+    "Passive": "While in combat Gnar generates Rage. At maximum Rage his next ability will transform him into Mega Gnar, granting increased survivability and access to new spells.",
+    "Q": "Gnar throws a boomerang that damages and slows enemies it hits before returning to him. If he catches the boomerang its cooldown is reduced. Mega Gnar instead throws a boulder that stops on the first unit hit, damaging and slowing everything nearby. It can then be picked up to reduce the cooldown.",
+    "W": "Gnar's attacks and spells hype him up, dealing bonus damage and granting him Move Speed. Mega Gnar is too enraged to be hyper and instead can rear up on his hind legs and smash down on the area in front of him, stunning enemies in an area.",
+    "E": "Gnar leaps to a location and bounces off the head of any unit he lands on, traveling further. Mega Gnar is too large to bounce and instead lands with earth-shattering force, dealing damage in an area around him.",
+    "Ult": "Mega Gnar throws everything around him in a chosen direction, dealing damage and slowing them. Any enemy that hits a wall is stunned and takes bonus damage."
+  },
+  {
+    "id": 11,
+    "Champion": "Kai'Sa",
+    "Passive": "Kai'Sa's basic attacks stack Plasma, dealing increasing bonus magic damage. Allies' immobilizing effects help stack Plasma. Additionally, Kai'Sa's item purchases upgrade her basic spells to have more powerful properties.",
+    "Q": "Kai'Sa shoots a swarm of missiles that seek out nearby targets. Living Weapon: Icathian Rain is upgraded to shoot more missiles.",
+    "W": "Kai'Sa shoots a long range missile, marking enemies with her passive. Living Weapon: Void Seeker is upgraded to apply more passive marks and reduce cooldown on champion hit.",
+    "E": "Kai'Sa briefly increases her Move Speed, then increases her Attack Speed. Living Weapon: Supercharge is upgraded to briefly grant Invisibility.",
+    "Ult": "Kai'Sa dashes near an enemy champion."
+  },
+  {
+    "id": 12,
+    "Champion": "Kha'Zix",
+    "Passive": "Nearby enemies that are Isolated from their allies are marked. Kha'Zix's abilities have interactions with Isolated targets. When Kha'Zix is not visible to the enemy team, he gains Unseen Threat, causing his next basic attack against an enemy champion to deal bonus magic damage and slow them for a few seconds.",
+    "Q": "Deals physical damage to the target. Damage increased on Isolated targets. If he chooses to Evolve Reaper Claws, this refunds a percent of it's cooldown against Isolated targets. Kha'Zix also gains increased range on his basic attacks and Taste Their Fear.",
+    "W": "Kha'Zix fires exploding spikes that deal physical damage to enemies hit. Kha'Zix is healed if he is also within the explosion radius. If he chooses to Evolve Spike Racks, Void Spike now fires three spikes in a cone, slow enemies hit, and reveals enemy champions hit for 2 seconds. Isolated targets are slowed for extra.",
+    "E": "Kha'Zix leaps to an area, dealing physical damage upon landing. If he chooses to Evolve Wings, Leap's range increases by 200 and the cooldown resets on champion kill or assist.",
+    "Ult": "Each rank allows Kha'Zix to evolve one of his abilities, giving it a unique additional effect. When activated, Kha'Zix becomes Invisible, triggering Unseen Threat and increasing Move Speed. If he chooses to Evolve Adaptive Cloaking, Void Assault gains increased Invisibility duration, and an additional use."
+  },
+  {
+    "id": 13,
+    "Champion": "Kennen",
+    "Passive": "Kennen stuns enemies he hits 3 times with his abilities.",
+    "Q": "Kennen throws a fast moving shuriken towards a location, causing damage and adding a Mark of the Storm to any opponent that it hits.",
+    "W": "Kennen passively deals extra damage and adds a Mark of the Storm to his target every few attacks, and he can activate this ability to damage and add another Mark of the Storm to targets who are already marked.",
+    "E": "Kennen morphs into a lightning form, enabling him to pass through units and apply a Mark of the Storm. Kennen gains Move Speed when entering this form, and attack speed when leaving it.",
+    "Ult": "Kennen summons a storm that strikes at nearby enemy champions for magical damage."
+  },
+  {
+    "id": 14,
+    "Champion": "Aatrox",
+    "Passive": "Periodically, Aatrox's next basic attack deals bonus physical damage and heals him, based on the target's max health.",
+    "Q": "Aatrox slams his greatsword down, dealing physical damage. He can swing three times, each with a different area of effect.",
+    "W": "Aatrox smashes the ground, dealing damage to the first enemy hit. Champions and large monsters have to leave the impact area quickly or they will be dragged to the center and take the damage again.",
+    "E": "Passively, Aatrox heals when damaging enemy champions. On activation, he dashes in a direction.",
+    "Ult": "Aatrox unleashes his demonic form, fearing nearby enemy minions and gaining attack damage, increased healing, and Move Speed. If he gets a takedown, this effect is extended."
+  },
+  {
+    "id": 15,
+    "Champion": "Azir",
+    "Passive": "Azir can summon the Disc of the Sun from the ruins of allied or enemy turrets.",
+    "Q": "Azir sends all Sand Soldiers towards a location. Sand Soldiers deal magic damage to enemies they pass through and apply a slow for 1 second.",
+    "W": "Azir summons a Sand Soldier to attack nearby targets for him, replacing his basic attack against targets within the soldier's range. Their attacks deal magic damage to enemies in a line. Arise! also passively grants attack speed to Azir and his Sand Soldiers.",
+    "E": "Azir shields himself briefly and dashes to one of his Sand Soldiers, damaging enemies. If he hits an enemy champion, he instantly readies a new Sand Soldier for deployment and halts his dash.",
+    "Ult": "Azir summons a wall of soldiers which charge forward, knocking back and damaging enemies."
+  },
+  {
+    "id": 16,
+    "Champion": "Lissandra",
+    "Passive": "When an enemy champion dies near Lissandra they become a Frozen Thrall. Frozen Thralls slow nearby enemies and then, after a delay, shatter from the intense cold, dealing magic damage to nearby targets.",
+    "Q": "Throws a spear of ice that shatters when it hits an enemy, dealing magic damage and slowing Move Speed. Shards pass through the target, dealing the same damage to other enemies hit.",
+    "W": "Freezes nearby enemies in ice, dealing magic damage and rooting them.",
+    "E": "Lissandra creates an ice claw that deals magic damage. Reactivating this ability transports Lissandra to the claw's current location.",
+    "Ult": "If cast on an enemy champion, the target is frozen solid, stunning it. If cast on Lissandra, she encases herself in dark ice, healing herself while becoming untargetable and invulnerable. Dark ice then emanates from the target dealing magic damage to enemies and slowing Move Speed."
+  },
+  {
+    "id": 17,
+    "Champion": "Darius",
+    "Passive": "Darius' attacks and damaging abilities cause enemies to bleed for physical damage over 5 seconds, stacking up to 5 times. Darius enrages and gains massive Attack Damage when his target reaches max stacks.",
+    "Q": "Darius winds up and swings his axe in a wide circle. Enemies struck by the blade take more damage than those struck by the handle. Darius heals based on enemy champions and large monsters hit by the blade.",
+    "W": "Darius's next attack strikes an enemy's crucial artery. As they bleed out, their Move Speed is slowed.",
+    "E": "Darius hones his axe, passively causing his physical damage to ignore a percentage of his target's Armor. When activated, Darius sweeps up his enemies with his axe's hook and pulls them to him.",
+    "Ult": "Darius leaps to an enemy champion and strikes a lethal blow, dealing true damage. This damage is increased for each stack of Hemorrhage on the target. If Noxian Guillotine is a killing blow, its cooldown is refreshed for a brief duration."
+  },
+  {
+    "id": 18,
+    "Champion": "Diana",
+    "Passive": "Diana has increased Attack Speed. Every third strike cleaves nearby enemies for additional magic damage.",
+    "Q": "Diana unleashes a bolt of lunar energy that travels in an arc and explodes upon collision, dealing damage to enemies around the target.",
+    "W": "Diana creates three orbiting spheres that detonate on contact with enemies to deal damage in an area. She also gains a temporary shield that absorbs damage. If her third sphere detonates, the shield gains additional strength.",
+    "E": "Diana draws in and slows all nearby enemies.",
+    "Ult": "Diana reveals and draws in all nearby enemies and slows them."
   }
 ]
