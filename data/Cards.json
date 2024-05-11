@@ -293,7 +293,7 @@
     "region": "Bandle City",
     "cost": 2,
     "description": "When an ally with an attachment attacks, grant that attachment +1|+0.",
-    "keywords": "None"
+    "keyword": "None"
   },
   {
     "id": 38,
@@ -301,7 +301,7 @@
     "region": "Bandle City",
     "cost": 6,
     "description": "Transform a unit into a 3|3 Mini-Minitee and Silence it.",
-    "keywords": "Burst"
+    "keyword": "Burst"
   },
   {
     "id": 39,
@@ -309,7 +309,7 @@
     "region": "Bandle City",
     "cost": 2,
     "description": "None",
-    "keywords": "Elusive, Attach"
+    "keyword": "Elusive, Attach"
   },
   {
     "id": 40,
@@ -317,6 +317,6 @@
     "region": "Targon",
     "cost": 2,
     "description": "When I'm summoned, refill 2 spell mana if you Behold a Nightfall card.",
-    "keywords": "Behold, Nightfall"
+    "keyword": "Behold, Nightfall"
   }
 ]
