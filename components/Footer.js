@@ -35,10 +35,10 @@ export default function Footer() {
 			</div>
 			<hr className="w-[95%] mx-auto border-1 border-amber-400" />
 			<div className="flex justify-center gap-4 pt-2">
-        <FaInstagramSquare className={socialIconStyle} />
-        <ImFacebook2 className={socialIconStyle} />
-        <FaSquareXTwitter className={socialIconStyle} />
-        <ImLinkedin className={socialIconStyle} />
+				<FaInstagramSquare className={socialIconStyle} />
+				<ImFacebook2 className={socialIconStyle} />
+				<FaSquareXTwitter className={socialIconStyle} />
+				<ImLinkedin className={socialIconStyle} />
 			</div>
 		</footer>
 	)

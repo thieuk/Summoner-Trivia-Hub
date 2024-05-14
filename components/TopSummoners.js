@@ -7,9 +7,9 @@ export default async function TopSummoners() {
   return (
     <div className="bg-leaderboard bg-center bg-no-repeat bg-cover font-semibold py-[75px] max-md:py-[50px] max-sm:py-[25px] mb-[50px] text-center border-2 border-amber-400">
       <div className="flex justify-center">
-        <Image src="/trophy.png" alt="trophy" width={30} height={30} style={{ width: 'auto', height: 'auto' }} />
+        <Image src="/trophy.png" alt="trophy" width={30} height={30} />
         <h1 className="mx-5 text-3xl max-md:text-xl max-sm:text-base [text-shadow:_0_0_10px_#000] font-bold">Top Summoners</h1>
-        <Image src="/trophy.png" alt="trophy" width={30} height={30} style={{ width: 'auto', height: 'auto' }} />
+        <Image src="/trophy.png" alt="trophy" width={30} height={30} />
       </div>
       <div className="max-w-[1200px] mx-auto mt-[75px] max-md:mt-[50px] max-sm:mt-[25px] flex text-xl max-md:text-lg max-sm:text-base">
         <div className="w-1/3 flex justify-center">

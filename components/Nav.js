@@ -21,7 +21,7 @@ export default function Nav() {
   return (
     <nav className="h-[65px] flex items-center gap-5 px-4 bg-black font-bold text-center max-sm:text-xs">
       <Link href="/" className="flex align-center gap-3">
-        <Image src="/logo.png" alt="logo" width={30} height={30} style={{ width: 'auto', height: 'auto' }} />
+        <Image src="/logo.png" alt="logo" width={30} height={30} />
         <span className="max-md:hidden">Summoner Trivia Hub</span>
       </Link>
       <div className="flex gap-5 max-md:gap-3 ml-auto">
@@ -32,7 +32,7 @@ export default function Nav() {
         ))}
         <Link href="/leaderboard" className={`hover:underline hover:underline-offset-4 ${pathname === "/leaderboard" ? "decoration-double underline underline-offset-4" : "" }`}>Leaderboard</Link>
         <Link href="/account">
-          <MdAccountCircle className="w-7 h-full" />
+          <MdAccountCircle className="w-7 max-sm:w-5 h-full" />
         </Link>
       </div>
     </nav>
